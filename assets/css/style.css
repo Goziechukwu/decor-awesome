@@ -191,3 +191,14 @@ hr {
     background-size: 100% 100%;
     border-radius: 50%;
 }
+
+/* our services */
+
+#services {
+    background-image: url('../images/services-background.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
