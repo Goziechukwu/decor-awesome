@@ -259,6 +259,11 @@ footer {
         padding: 0;
     }
 
+    #services>div {
+        width: 48.3%;
+        border: 0;
+    }
+
     hr {
         display: none;
     }
