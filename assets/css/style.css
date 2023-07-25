@@ -396,5 +396,15 @@ footer {
     #services>div {
         width: 35%;
         border: 0;
+        font-size: 80%;
+    }
+}
+
+/* For small screen sizes of 350px and down */
+@media screen and (max-width: 350px) {
+    #services>div {
+        width: 35%;
+        border: 0;
+        font-size: 70%;
     }
 }
