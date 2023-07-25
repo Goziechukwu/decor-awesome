@@ -90,12 +90,12 @@ h2 {
     letter-spacing: 4px;
 
     width: 300px;
-    height: 200px;
+    height: 150px;
 
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(241, 109, 107, .7);
+    background-color: rgba(23, 67, 88, .7);
 
     bottom: 30px;
     right: 150px;
@@ -163,8 +163,8 @@ hr {
 }
 
 #circle-container {
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     padding: 30px;
     border-style: solid;
     border-color: #ccc;
@@ -372,5 +372,13 @@ footer {
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
+    }
+}
+
+/* For small screen sizes of 700px and down */
+@media screen and (max-width: 700px) {
+    #services>div {
+        width: 45%;
+        border: 0;
     }
 }
