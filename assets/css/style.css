@@ -191,6 +191,13 @@ hr {
     overflow: hidden;
 }
 
+.services-intro {
+    color: orange;
+    text-align: center;
+    border: 1px solid white;
+    font-weight: 200;
+}
+
 #services div {
     color: #000000;
     width: 48.3%;
@@ -202,6 +209,7 @@ hr {
 
 footer {
     height: 150px;
+    margin-top: 50px;
 }
 
 .social-networks {
@@ -212,11 +220,18 @@ footer {
     display: inline;
 }
 
-.social-networks i {
+.social-networks li {
     font-size: 160%;
     margin: 1%;
     padding: 4%;
-    color: #3a3a3a;
+}
+
+.social-networks a:link {
+    text-decoration: none;
+}
+
+.fa-brands {
+    color: black;
 }
 
 #photos {
