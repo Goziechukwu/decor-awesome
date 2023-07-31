@@ -29,7 +29,7 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 <p>o	Showing the benefits of using our decoration hacks.</p>
 <p>o	Highlighting the benefits as relevant for student-life experience.</p>
 
-<img src="assets/images/enhanced-mood-section-screenshot.jpg" alt="enhanced-mood-section-screenshot">
+<img src="assets/images/enhanced-mood-section-screenshot.PNG" alt="enhanced-mood-section-screenshot">
 
 ### • Services Section
 
@@ -76,7 +76,14 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 
 <img src="validation-testing-screenshot-2.PNG" alt="Second Validation Testing">
  
-## 6. File Structure
+## 6. Bugs, and How I Fixed Them
+
+<p>I had a challenge with my social media icons. The code syntax I used made my icons within the footer to be clickable beyond the perimeter of each icon. I solved this by copying out the class names from the scripts of the downloaded social media icons and putting the class names in the anchor element tags, hence giving the anchor elements the class of the icon elements and taking out the icon elements' scripts.</p>
+
+<p>This worked, but then the icons changed to their default blue colors, and I wanted them to be black colour in the website, I then had to create a new css rule for the icons, having the class names “fa-brands” and setting a color property of black. This gave me what I desired, the black-colored icons.</p>
+
+## 7. File Structure
+
 <p>Folders and Files in the workspace are created as follows:</p>
 <p>Folders:   - Assets folder</p>
 <p>Contents: - CSS folder and Images folder</p>
