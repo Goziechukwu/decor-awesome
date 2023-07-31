@@ -12,7 +12,7 @@
 
 ### • The landing page image
 
-<img src="/assets/images/landing-page-image-screenshot.PNG" alt="Landing page image">
+<img src="./assets/images/landing-page-image-screenshot.png" alt="Landing page image">
 
 [Source of Landing Page Image](https://unsplash.com/photos/0jmXOqUhpTQ)
 
@@ -20,7 +20,7 @@
 
 Upon visiting Decor Awesome's website, the user will be greeted with the homepage, showing the website's featured contents. Clicking the navigation bar at the top helps the user explore different pages and categories of the website. The website is responsive to all device types.
 
-<img src="/assets/images/responsiveness-screenshot.PNG" alt="Responsiveness screenshot">
+<img src="./assets/images/responsiveness-screenshot.png" alt="Responsiveness screenshot">
  
 Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://goziechukwu.github.io/decor-awesome/)
  
@@ -29,7 +29,7 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 <p>o	Showing the benefits of using our decoration hacks.</p>
 <p>o	Highlighting the benefits as relevant for student-life experience.</p>
 
-<img src="/assets/images/enhanced-mood-section-screenshot.PNG" alt="enhanced-mood-section-screenshot">
+<img src="./assets/images/enhanced-mood-section-screenshot.png" alt="enhanced-mood-section-screenshot">
 
 ### • Services Section
 
@@ -41,7 +41,7 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 ### •	The Footer
 <p>o	The footer contains links to relevant social media sites.</p>
 
- <img src="/footer-image-screenshot.png" alt="Footer image screenshot">
+ <img src="./footer-image-screenshot.png" alt="Footer image screenshot">
 
 ### • Gallery
 
@@ -51,7 +51,7 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 
  <img src="./assets/images/sign-up-page-screenshot-1.png" alt="Sign Up page first screenshot">
 
- <img src="./assets/images/sign-up-page-screenshot-2.PNG" alt="Sign Up page second screenshot">
+ <img src="./assets/images/sign-up-page-screenshot-2.png" alt="Sign Up page second screenshot">
 
 ## 4. Technologies Used:
 
@@ -72,9 +72,9 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 <p>The HTML and CSS codes have been tested for validation in the w3C HTML Validator and the w3C CSS Validator respectively, and no errors were returned.
  </p>
 
-<img src="assets/images/validation-testing-screenshot-1.PNG" alt="First Validation Testing">
+<img src="./assets/images/validation-testing-screenshot-1.png" alt="First Validation Testing">
 
-<img src="assets/images/validation-testing-screenshot-2.PNG" alt="Second Validation Testing">
+<img src="./assets/images/validation-testing-screenshot-2.png" alt="Second Validation Testing">
  
 ## 6. Bugs, and How I Fixed Them
 
