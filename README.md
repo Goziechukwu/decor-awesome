@@ -36,22 +36,22 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 <p>o	Showing the advancing range of services provided to meet the specific change-of-state(mood) need of a student, at any relevant period of his semester and also at holidays.</p>
 <p>o	Showing how Decor Awesome provides both simple and advanced room decoration techniques for different expected enhancements of moods and states</p>
 
-<img src="/assets/images/services-section-screenshot.PNG" alt="Services section screenshot">
+<img src="./assets/images/services-section-screenshot.png" alt="Services section screenshot">
  
 ### •	The Footer
 <p>o	The footer contains links to relevant social media sites.</p>
 
- <img src="/footer-image-screenshot.PNG" alt="Footer image screenshot">
+ <img src="/footer-image-screenshot.png" alt="Footer image screenshot">
 
 ### • Gallery
 
- <img src="/assets/images/gallery-images-screenshot.PNG" alt="Gallery images screenshot">
+ <img src="./assets/images/gallery-images-screenshot.png" alt="Gallery images screenshot">
 
 ### • The Sign Up Page
 
- <img src="/assets/images/sign-up-page-screenshot-1.PNG" alt="Sign Up page first screenshot">
+ <img src="./assets/images/sign-up-page-screenshot-1.png" alt="Sign Up page first screenshot">
 
- <img src="/assets/images/sign-up-page-screenshot-2.PNG" alt="Sign Up page second screenshot">
+ <img src="./assets/images/sign-up-page-screenshot-2.PNG" alt="Sign Up page second screenshot">
 
 ## 4. Technologies Used:
 
