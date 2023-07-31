@@ -1,39 +1,92 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# README
 
-Welcome,
+## 1. Decor Awesome
+<p>Decor Awesome is a site that hopes to help improve people's moods at their homes through suggesting simple home decoration and organizing hacks. The site will be targeted towards all kinds of people, but especially to university students who would want to be in particular mental and emotional states (moods) at particular periods in their study semesters and holidays. Decor Awesome will be useful in suggesting the specific room organizing and/or decoration hack that will aid the attainment and sustainment of the specific mood (state) the student desires.</p>
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## 2. Website Features
+### •	Navigation Bar
+<p>The navigation bar is displayed on all three pages of the website, including links to the Logo, Home page, Gallery and Sign Up.</p>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+### •	The landing page image
 
-## Codeanywhere Reminders
+<img src="assets/images/landing-page-image-screenshot.PNG" alt="Landing page image">
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+[Source of Landing Page Image](https://unsplash.com/photos/0jmXOqUhpTQ)
 
-`python3 -m http.server`
+## 3. Using Decor Awesome
+Upon visiting Decor Awesome's website, the user will be greeted with the homepage, showing the website's featured contents. Clicking the navigation bar at the top helps the user explore different pages and categories of the website. The website is responsive to all device types.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+<img src="assets/images/responsiveness-screenshot.PNG" alt="Responsiveness screenshot">
+ 
+Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://goziechukwu.github.io/decor-awesome/)
+ 
+### •	Enhanced Mood Section
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+<p>o	Showing the benefits of using our decoration hacks.</p>
+<p>o	Highlighting the benefits as relevant for student-life experience.</p>
 
-`http_server`
+ 
+<img src="assets/images/enhanced-mood-section-screenshot" alt="enhanced-mood-section-screenshot">
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+###•	Services Section
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+<p>o	Showing the advancing range of services provided to meet the specific change-of-state(mood) need of a student, at any relevant period of his semester and also at holidays.</p>
+<p>o	Showing how Decor Awesome provides both simple and advanced room decoration techniques for different expected enhancements of moods and states</p>
 
-To log into the Heroku toolbelt CLI:
+<img src="assets/images/services-section-screenshot" alt="Services section screenshot">
+ 
+### •	The Footer
+<p>o	The footer contains links to relevant social media sites.</p>
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+ <img src="footer-image-screenshot" alt="Footer image screenshot">
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### •	Gallery
+ 
+ <img src="gallery-images-screenshot" alt="Gallery images screenshot">
 
----
+### •	The Sign Up Page
 
-Happy coding!
+ <img src="sign-up-page-screenshot-1" alt="Sign Up page first screenshot">
+
+ <img src="sign-up-page-screenshot-2" alt="Sign Up page second screenshot">
+ 
+
+## 4. Technologies Used:
+<p>•	The following programming languages were used:</p>
+<p>- HTML5</p>
+<p>- CSS3</p>
+<p>•	The workspace used to write the code was:</p>
+<p>- Codeanywhere workspace</p>
+<p>•	All codes and commits were pushed to:</p>
+<p>- GitHub repository</p>
+<p>•	The library in google that was used for the fonts is:</p>
+<p>- Font Awesome</p>
+<p>•	The styling layout (framework) used for the gallery section was:</p>
+<p>- Masonry layout</p>
+
+
+## 5. Validation Testing
+<p>The HTML and CSS codes have been tested for validation in the w3C HTML Validator and the w3C CSS Validator respectively, and no errors were returned.
+ </p>
+
+<img src="validation-testing-screenshot-1" alt="First Validation Testing">
+
+<img src="validation-testing-screenshot-2" alt="Second Validation Testing">
+ 
+## 6. File Structure
+<p>Folders and Files in the workspace are created as follows:</p>
+<p>Folders:   - Assets folder</p>
+<p>Contents: - CSS folder and Images folder</p>
+<p>Files: 	- index.html, gallery.html, signup.html and style.css files (in the CSS folder)</p>
+<p>Other files are photo files in the images folder, like the hero-image, mood-center-image, services-background image, signup-background-image, and others in the gallery.</p>
+
+
+## 7. Contact information
+<p>The website developer's contact details are as follows:</p>
+<p>Email:	inekwegoziechukwu@gmail.com</p>
+
+## 8. Acknowledgements and References
+<p>-  Love-Running Project- from Code Institute: Its naming style was used in naming some of the ids and classes in Decor Awesome's website; also a few of Love-Running Project's styles were also copied in Decor Awesome's file.</p>
+
+<p>-  unsplash.com: All photos in the website were obtained from unsplash.com's website.</p>
