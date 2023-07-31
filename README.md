@@ -18,7 +18,7 @@ The navigation bar is displayed on all three pages of the website, including lin
 
 The navigation bar is fully responsive to all device-size types, from desktops, to laptops, tablets, handsets.
 
-<img src="./assets/images/navigation-highlight-image.png" alt="Navigation highlight image">
+<img src="./assets/images/navigation-highlight-image.PNG" alt="Navigation highlight image">
 
 ### • The landing page image
 
