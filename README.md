@@ -12,7 +12,7 @@
 
 ### • The landing page image
 
-<img src="assets/images/landing-page-image-screenshot.PNG" alt="Landing page image">
+<img src="./images/landing-page-image-screenshot.PNG" alt="Landing page image">
 
 [Source of Landing Page Image](https://unsplash.com/photos/0jmXOqUhpTQ)
 
@@ -20,7 +20,7 @@
 
 Upon visiting Decor Awesome's website, the user will be greeted with the homepage, showing the website's featured contents. Clicking the navigation bar at the top helps the user explore different pages and categories of the website. The website is responsive to all device types.
 
-<img src="assets/images/responsiveness-screenshot.PNG" alt="Responsiveness screenshot">
+<img src="./images/responsiveness-screenshot.PNG" alt="Responsiveness screenshot">
  
 Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://goziechukwu.github.io/decor-awesome/)
  
