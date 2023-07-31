@@ -119,6 +119,17 @@ Files: - index.html, gallery.html, signup.html and style.css files (in the CSS f
 
 Other files are photo files in the images folder, like the hero-image, mood-center-image, services-background image, signup-background-image, and others in the gallery.
 
+## Deployment
+
+The site was deployed to GitHub pages by the following steps:
+Navigating in the GitHub repository to the Settings tab,
+Clicking the drop-down menu under the source section and selecting 'Master Branch', and finally waiting for the page to refresh and display a detailed ribbon sign indicating that deployment was successful.
+
+This brought forth, under the Pages section under Settings, Decor Awesome's live link which is as follows:
+
+https://goziechukwu.github.io/decor-awesome/
+
+
 ## Contact information
 
 The website developer's contact details are as follows:
@@ -129,4 +140,10 @@ Email: inekwegoziechukwu@gmail.com
 
 - _Love-Running Project_- from Code Institute: Some of the Love-Running Project's style of naming was used in naming some of the ids and classes in Decor Awesome's website; also a few of Love-Running Project's css style rules were used in Decor Awesome's 'style.css' file.
 
-- _unsplash.com_: All photos in the website were obtained from the *unsplash.com* website.
+- _Unsplash website_: All photos in the website were obtained from the [Unsplash website](unsplash.com) website.
+
+- _Font Awesome_: All icons used in the 'enhanced-mood' section and in the footer section were gotten from the [Font Awesome](https://fontawesome.com/) website.
+
+- _Google Fonts_: The two fonts, Oswald and Lato used in the website design were obtained from [Google Fonts](https://fonts.google.com/).
+
+- _Code Institute Form Dump Url_: The [Code Institute's Form Dump url](https://formdump.codeinstitute.net/) was used in my code for the posting of the form in the 'signup.html'.
