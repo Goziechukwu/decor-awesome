@@ -40,12 +40,11 @@ o Showing how Decor Awesome provides both simple and advanced room decoration te
 
 <img src="./assets/images/services-section-screenshot.png" alt="Services section screenshot">
 
-
 ### • The Footer
 
 o The footer contains links to relevant social media sites.
 
-<img src="./assets/footer-image-screenshot.png" alt="Footer image screenshot">
+<img src="./assets/images/footer-image-screenshot.png" alt="Footer image screenshot">
 
 ### • Gallery
 
@@ -89,13 +88,19 @@ The HTML and CSS codes have been tested for validation in the w3C HTML Validator
 
 <img src="./assets/images/validation-testing-screenshot-2.png" alt="Second Validation Testing">
 
-## 6. Bugs, and How I Fixed Them
+## 6. Accessibility Requirements
+
+Decor Awesome has been tested using Lighthouse on Google and found to completely meet Accessibility Requirements, in addition to having Best Practices, and more, as indicated in the screenshot below:
+
+<img src="./assets/images/accessibility-requirements-score-screenshot.png" alt="Accessibility Requirements Score">
+
+## 7. Bugs, and How I Fixed Them
 
 I had a challenge with my social media icons. The code syntax I used made my icons within the footer to be clickable beyond the perimeter of each icon. I solved this by copying out the class names from the scripts of the downloaded social media icons and putting the class names in the anchor element tags, hence giving the anchor elements the class of the icon elements and taking out the icon elements' scripts.
 
 This worked, but then the icons changed to their default blue colors, and I wanted them to be black colour in the website, I then had to create a new css rule for the icons, having the class names “fa-brands” and setting a color property of black. This gave me what I desired, the black-colored icons.
 
-## 7. File Structure
+## 8. File Structure
 
 Folders and Files in the workspace are created as follows:
 
@@ -107,13 +112,13 @@ Files: - index.html, gallery.html, signup.html and style.css files (in the CSS f
 
 Other files are photo files in the images folder, like the hero-image, mood-center-image, services-background image, signup-background-image, and others in the gallery.
 
-## 8. Contact information
+## 9. Contact information
 
 The website developer's contact details are as follows:
 
 Email: inekwegoziechukwu@gmail.com
 
-## 9. Acknowledgements and References
+## 10. Acknowledgements and References
 
 - _Love-Running Project_- from Code Institute: Its naming style was used in naming some of the ids and classes in Decor Awesome's website; also a few of Love-Running Project's styles were also copied in Decor Awesome's file.
 
