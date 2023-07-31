@@ -97,6 +97,6 @@ Source: [Responsivity measurement](https://ui.dev/amiresponsive?url=https://gozi
 
 ## 8. Acknowledgements and References
 
-<p>-  Love-Running Project- from Code Institute: Its naming style was used in naming some of the ids and classes in Decor Awesome's website; also a few of Love-Running Project's styles were also copied in Decor Awesome's file.</p>
+<p>-  <i>Love-Running Project</i>- from Code Institute: Its naming style was used in naming some of the ids and classes in Decor Awesome's website; also a few of Love-Running Project's styles were also copied in Decor Awesome's file.</p>
 
-<p>-  unsplash.com: All photos in the website were obtained from unsplash.com's website.</p>
+<p>-  <i>unsplash.com</i>: All photos in the website were obtained from unsplash.com's website.</p>
